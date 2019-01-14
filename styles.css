@@ -1,0 +1,16 @@
+h1 {
+	color: Blue;
+}
+img {
+	width: 20%;
+	height: auto;
+}
+
+body {
+	background-image: url("sky-1315328_1920.jpg");
+	height: 100%;
+}
+
+ul {
+	background-color: lightblue;
+}
